@@ -1,0 +1,17 @@
+{
+    "tasks": [
+        {
+            "id": "a565519b-86e8-45f7-a723-d5014ee2fbb4",
+            "title": "complete the leetcodes problems",
+            "description": "atleast complete the 10 problems in time",
+            "category": "Study",
+            "priority": "Medium",
+            "status": "Pending",
+            "created_date": "2026-07-14",
+            "created_time": "22:20:51",
+            "due_date": "2026-07-14",
+            "due_time": "11:45",
+            "last_updated": "2026-07-14 22:20:51"
+        }
+    ]
+}
